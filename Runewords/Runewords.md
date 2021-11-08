@@ -76,7 +76,7 @@
 | [[Strength]] |Amn|Tir|||||Melee Weapons|25|
 | [[Treachery]] |Shael|Thul|Lem||||<a href="https://diablo2.diablowiki.net/Body_Armor" >Body Armors</a><em>(Assassin)</em>|43|
 | [[Venom]] |Tal|Dol|Mal||||Weapons|49|
-| [[Voice of Reason|Lem|Ko|El|Eld|||<a href="https://diablo2.diablowiki.net/Swords" >Swords</a> <a href="https://diablo2.diablowiki.net/Maces" >Maces</a>|43|
+| [[Voice of Reason]]|Lem|Ko|El|Eld|||<a href="https://diablo2.diablowiki.net/Swords" >Swords</a> <a href="https://diablo2.diablowiki.net/Maces" >Maces</a>|43|
 | [[Wealth]] |Lem|Ko|Tir||||<a href="https://diablo2.diablowiki.net/Body_Armor" >Body Armors</a>|43|
 | [[White]] |Dol|Io|||||<a href="https://diablo2.diablowiki.net/Wands" >Wands</a>|35|
 | [[Wind]] |Sur|El|||||Melee Weapons|61|

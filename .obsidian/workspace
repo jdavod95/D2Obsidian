@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9073f9989460f5b6",
+        "id": "a23ee02cbb89263c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Runewords/Runewords.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -76,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Runewords/Runewords.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -107,7 +103,7 @@
             }
           },
           {
-            "id": "446fdea8edc3c323",
+            "id": "12582fbf44bc110e",
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
@@ -121,17 +117,17 @@
     "direction": "horizontal",
     "width": 286
   },
-  "active": "9073f9989460f5b6",
+  "active": "a23ee02cbb89263c",
   "lastOpenFiles": [
+    "Zephyr.md",
     "Runewords/Runewords.md",
-    "Runewords/Death.md",
-    "Runewords/Chains of Honor.md",
-    "Runewords/Chaos.md",
-    "Runewords/Call to Arms.md",
-    "Runewords/Brand.md",
-    "Runewords/Crescent Moon.md",
-    "Runewords/Black.md",
-    "Runewords/Ancient's Pledge.md",
-    "Breakpoints/BreakpointsMenu.md"
+    "Wrath.md",
+    "Wind.md",
+    "White.md",
+    "Wealth.md",
+    "Voice of Reason.md",
+    "Venom.md",
+    "Treachery.md",
+    "Strength.md"
   ]
 }
