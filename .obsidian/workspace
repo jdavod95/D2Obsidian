@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Runewords/Beast.md",
+            "file": "Map Reading/Act2Map.md",
             "mode": "preview"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Runewords/Beast.md",
+                "file": "Map Reading/Act2Map.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -123,15 +123,15 @@
   },
   "active": "dd1466328d4f7a2c",
   "lastOpenFiles": [
-    "Runewords/Beast.md",
-    "Tierlists/MrllamaSC Uniques.md",
-    "Map Reading/Pasted image 20211108230324.png",
-    "Map Reading/Act1Map.md",
-    "Act2Map.md",
+    "Map Reading/Act2Map.md",
     "Map Reading/Mapreading.md",
-    "Characterorientation.md",
+    "Tierlists/MrllamaSC Uniques.md",
+    "Map Reading/Act1Map.md",
     "Magic Finding/Magic Find.md",
-    "Breakpoints/Breakpoints.md",
-    "Breakpoints/Faster Cast rate.md"
+    "Runewords/Memory.md",
+    "Runewords/White.md",
+    "Runewords/Wrath.md",
+    "Runewords/Steel.md",
+    "Runewords/Dragon.md"
   ]
 }
