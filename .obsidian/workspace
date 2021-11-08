@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "48dfc52ef56c7696",
+    "id": "0e42abedbbeeecf2",
     "type": "split",
     "children": [
       {
-        "id": "9aa2ea927c2879ba",
+        "id": "dd1466328d4f7a2c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Act2Map.md",
-            "mode": "source"
+            "file": "Runewords/Beast.md",
+            "mode": "preview"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Act2Map.md",
+                "file": "Runewords/Beast.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,17 +121,17 @@
     "direction": "horizontal",
     "width": 286
   },
-  "active": "9aa2ea927c2879ba",
+  "active": "dd1466328d4f7a2c",
   "lastOpenFiles": [
-    "Act2Map.md",
+    "Runewords/Beast.md",
+    "Tierlists/MrllamaSC Uniques.md",
+    "Map Reading/Pasted image 20211108230324.png",
     "Map Reading/Act1Map.md",
+    "Act2Map.md",
     "Map Reading/Mapreading.md",
     "Characterorientation.md",
     "Magic Finding/Magic Find.md",
     "Breakpoints/Breakpoints.md",
-    "Breakpoints/Faster Cast rate.md",
-    "Breakpoints/Faster hit recovery.md",
-    "Breakpoints/Increased Blocking Speed.md",
-    "Runewords/Runewords.md"
+    "Breakpoints/Faster Cast rate.md"
   ]
 }
