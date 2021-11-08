@@ -1,6 +1,7 @@
 # Increased Blocking Speed
-## [[BreakpointsMenu]] 
+## [[Breakpoints]] 
 ### [[Faster Cast rate]] [[Faster hit recovery]]
+---
 More commonly called "fast block", this modifier helps characters block more frequently.
 
 A character goes into block animation if its opponent succeeds in the hit check and the character succeeds in a blocking check. The character can do nothing else during the blocking animation. Blocking is only possible while engaged in melee combat, or while walking. (Not while running.) See the [blocking article](https://diablo2.diablowiki.net/Block "Block") for more details.

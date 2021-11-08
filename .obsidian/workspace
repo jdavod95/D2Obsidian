@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "a23ee02cbb89263c",
+        "id": "741ffbc7417a36e8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Breakpoints/Increased Blocking Speed.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Breakpoints/Increased Blocking Speed.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -117,17 +121,16 @@
     "direction": "horizontal",
     "width": 286
   },
-  "active": "a23ee02cbb89263c",
+  "active": "741ffbc7417a36e8",
   "lastOpenFiles": [
-    "Zephyr.md",
+    "Breakpoints/Increased Blocking Speed.md",
+    "Breakpoints/Breakpoints.md",
+    "Breakpoints/Faster Cast rate.md",
+    "Breakpoints/Faster hit recovery.md",
     "Runewords/Runewords.md",
+    "Runewords/Ancient's Pledge.md",
+    "Zephyr.md",
     "Wrath.md",
-    "Wind.md",
-    "White.md",
-    "Wealth.md",
-    "Voice of Reason.md",
-    "Venom.md",
-    "Treachery.md",
-    "Strength.md"
+    "Wind.md"
   ]
 }

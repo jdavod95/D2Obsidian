@@ -1,6 +1,7 @@
 # Faster Cast Rate
-## [[BreakpointsMenu]]
-### [[Faster hit recovery]] [[Block rate]]
+## [[Breakpoints]]
+### [[Faster hit recovery]] [[Increased Blocking Speed]]
+---
 
 Faster casting rate is found on a variety of equipment. This stat is most important for spell-casters, for obvious reasons. All spells are affected by this value, but note that some spells have a 1 second, or longer, delay between uses. For those spells, FCR equipment will lower the frames required for the actual casting animation, but the 1 second delay will still run (for 25 frames) after each cast.
 

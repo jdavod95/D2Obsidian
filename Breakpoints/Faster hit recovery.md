@@ -1,6 +1,6 @@
 # Faster Hit Recovery
-## [[BreakpointsMenu]]
-### [[Faster Cast rate]] [[Block rate]]
+## [[Breakpoints]]
+### [[Faster Cast rate]] [[Increased Blocking Speed]]
 
 ---
 
