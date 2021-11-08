@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "741ffbc7417a36e8",
+        "id": "9aa2ea927c2879ba",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Breakpoints/Increased Blocking Speed.md",
-            "mode": "preview"
+            "file": "Act2Map.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Breakpoints/Increased Blocking Speed.md",
+                "file": "Act2Map.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,16 +121,17 @@
     "direction": "horizontal",
     "width": 286
   },
-  "active": "741ffbc7417a36e8",
+  "active": "9aa2ea927c2879ba",
   "lastOpenFiles": [
-    "Breakpoints/Increased Blocking Speed.md",
+    "Act2Map.md",
+    "Map Reading/Act1Map.md",
+    "Map Reading/Mapreading.md",
+    "Characterorientation.md",
+    "Magic Finding/Magic Find.md",
     "Breakpoints/Breakpoints.md",
     "Breakpoints/Faster Cast rate.md",
     "Breakpoints/Faster hit recovery.md",
-    "Runewords/Runewords.md",
-    "Runewords/Ancient's Pledge.md",
-    "Zephyr.md",
-    "Wrath.md",
-    "Wind.md"
+    "Breakpoints/Increased Blocking Speed.md",
+    "Runewords/Runewords.md"
   ]
 }
