@@ -11,3 +11,4 @@
 ## [Based on D2R prelaunch video of MrLlamaSC](https://www.youtube.com/watch?v=IUldSKi9j7Y)
 
 ![[Pasted image 20211109152305.png]]
+
