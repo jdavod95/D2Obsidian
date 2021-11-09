@@ -318,4 +318,4 @@ Faster casting rate is found on a variety of equipment. This stat is most import
 
 For instance, if your character takes 11 frames to cast a spell that has a 1 second delay, that's 11 + 25 = 36 frames per use. If you you use FCR equipment to cut your casting frames to 7, you'll still have to wait 7 + 25 = 32 frames to cast it again. Saving 4 frames ever time you cast a spell will certainly add up over hundreds of casts, but the difference is less noticeable than it is with spells you can "spam" as quickly as your character can cast them.
 
--   [Lightning](https://diablo2.diablowiki.net/Sorceress_Lightning_Spells#Lightning "Sorceress Lightning Spells") and [Chain Lightning](https://diablo2.diablowiki.net/Sorceress_Lightning_Spells#Chain_Lightning "Sorceress Lightning Spells") have different breakpoints than the other Sorceress spells.
+-   [Lightning](https://diablo2.diablowiki.net/Sorceress_Lightning_Spells#Lightning "Sorceress Lightning Spells") and [Chain Lightning](https://diablo2.diablowiki.net/Sorceress_Lightning_Spells#Chain_Lightning "Sorceress Lightning Spells") have different breakpoints than the other Sorceress spells
