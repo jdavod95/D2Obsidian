@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Tierlists/MrLlamaSC Ladder  Start Builds.md",
-            "mode": "preview"
+            "file": "Ötletláda.md",
+            "mode": "source"
           }
         }
       }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tierlists/MrLlamaSC Ladder  Start Builds.md",
+                "file": "Ötletláda.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,15 +115,15 @@
   },
   "active": "a15a57392e195227",
   "lastOpenFiles": [
+    "Ötletláda.md",
     "Tierlists/MrLlamaSC Ladder  Start Builds.md",
-    "Tierlists/MrllamaSC Uniques.md",
+    "Breakpoints/Faster hit recovery.md",
     "Breakpoints/Faster Cast rate.md",
-    "Map Reading/Mapreading.md",
-    "Map Reading/Act2Map.md",
-    "Map Reading/Act1Map.md",
-    "Map Reading/NOCOMPASS.png",
-    "![[NOCOMPASS.png]].md",
-    "!NOCOMPASS.md",
-    "NOCOMPASS.md"
+    "Breakpoints/Increased Blocking Speed.md",
+    "Breakpoints/Breakpoints.md",
+    "Tierlists/MrllamaSC Uniques.md",
+    "Runewords/Runewords.md",
+    "Runewords/Famine.md",
+    "Map Reading/Mapreading.md"
   ]
 }
