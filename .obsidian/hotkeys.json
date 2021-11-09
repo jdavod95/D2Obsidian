@@ -6,21 +6,5 @@
       ],
       "key": "R"
     }
-  ],
-  "templater-obsidian:Runewords/Beast.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F1"
-    }
-  ],
-  "templater-obsidian:Template.md": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "F1"
-    }
   ]
 }

@@ -6,6 +6,6 @@
 | Cold Plains         | Not in Corner |
 | Underground Passage | Straight      |
 | Forgotten Tower     | Left          |
-| Outer Cloister      | Based on Wp   |
+| Outer Cloister      | Based on WP   |
 | Jail 1 & 2          | Straight      |
 | Catacombs           | Right of WP   | 

@@ -2,15 +2,6 @@
 ## [[Breakpoints]] 
 ### [[Faster Cast rate]] [[Faster hit recovery]]
 ---
-More commonly called "fast block", this modifier helps characters block more frequently.
-
-A character goes into block animation if its opponent succeeds in the hit check and the character succeeds in a blocking check. The character can do nothing else during the blocking animation. Blocking is only possible while engaged in melee combat, or while walking. (Not while running.) See the [blocking article](https://diablo2.diablowiki.net/Block "Block") for more details.
-
-Improvements to faster blocking are difficult to achieve since the bonuses to it are found almost exclusively on shields.
-
--   In some cases the equipped weapon influences the blocking speed.
--   The Assassin's [Weapon Block](https://diablo2.diablowiki.net/Assassin_Shadow_Disciplines#Weapon_Block "Assassin Shadow Disciplines") skill is also affected by her Faster Block Rate, and the same values as for shield blocking apply.
--   Act 3 mercenaries do not block even though they are capable of using a shield.
 
 <table width="100%">
 <tbody><tr>
@@ -300,3 +291,13 @@ Improvements to faster blocking are difficult to achieve since the bonuses to it
 <th colspan="17">Block Frames
 </th></tr>
 </tbody></table>
+
+More commonly called "fast block", this modifier helps characters block more frequently.
+
+A character goes into block animation if its opponent succeeds in the hit check and the character succeeds in a blocking check. The character can do nothing else during the blocking animation. Blocking is only possible while engaged in melee combat, or while walking. (Not while running.) See the [blocking article](https://diablo2.diablowiki.net/Block "Block") for more details.
+
+Improvements to faster blocking are difficult to achieve since the bonuses to it are found almost exclusively on shields.
+
+-   In some cases the equipped weapon influences the blocking speed.
+-   The Assassin's [Weapon Block](https://diablo2.diablowiki.net/Assassin_Shadow_Disciplines#Weapon_Block "Assassin Shadow Disciplines") skill is also affected by her Faster Block Rate, and the same values as for shield blocking apply.
+-   Act 3 mercenaries do not block even though they are capable of using a shield.
