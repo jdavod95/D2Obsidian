@@ -1,6 +1,6 @@
 | Tier | Class                                                                                                                     | 
 | ---- | ------------------------------------------------------------------------------------------------------------------------- |
-| S    | Hammerdin, TrapSin, LighfuryZon, SummonNecro, BlizzardSorc                                                                |
+| S    | Hammerdin, TrapSin, LightingfuryZon, SummonNecro, BlizzardSorc                                                                |
 | A    | WindDruid, MeteorSorc, BoneNecro, ShoutBarb, SmitePala, FrozenOrbSorc, FireSorc, FireDruid                                |
 | B    | ExplodingArrowZon, ZealPaly, HolyFreezeZealPaly , FreezingArrowZon, LightningSorc, PoisonNecro, SummonDruid, FirewallSorc |
 | C    | KickSin, RabbiesDruid, VengePaly, FirelcawDruid, FrenzyBarb , NovaSorc, FuryDruid, PhoenixSin                             |
