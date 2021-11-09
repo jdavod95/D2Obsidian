@@ -1,12 +1,9 @@
 # Faster Hit Recovery
-## [[BreakpointsMenu]]
-### [[Faster Cast rate]] [[Block rate]]
+## [[Breakpoints]]
+### [[Faster Cast rate]] [[Increased Blocking Speed]]
 
 ---
 
-The hit recovery counter is triggered by any hits that take off more than 1/12th of your character's maximum hit points. When this happens your character is knocked into a "hit stun" animation, which must be completed before you can take another action. Characters (or mercs or monsters) may be stunned repeatedly, trapping them in "[stun lock](https://diablo2.diablowiki.net/index.php?title=Stun_lock&action=edit&redlink=1 "Stun lock (page does not exist)")," a very dangerous situation.
-
-There are also a variety of skills (for players and monsters) that cause the target to be stunned. Other skills and spell effects can cause all hits to stun while they are in effect.
 <table width="100%">
 <tbody><tr>
 <th rowspan="2">Character
@@ -391,3 +388,7 @@ There are also a variety of skills (for players and monsters) that cause the tar
 <th colspan="16">Hit Recovery Frames
 </th></tr>
 </tbody></table>
+
+The hit recovery counter is triggered by any hits that take off more than 1/12th of your character's maximum hit points. When this happens your character is knocked into a "hit stun" animation, which must be completed before you can take another action. Characters (or mercs or monsters) may be stunned repeatedly, trapping them in "[stun lock](https://diablo2.diablowiki.net/index.php?title=Stun_lock&action=edit&redlink=1 "Stun lock (page does not exist)")," a very dangerous situation.
+
+There are also a variety of skills (for players and monsters) that cause the target to be stunned. Other skills and spell effects can cause all hits to stun while they are in effect.

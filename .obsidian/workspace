@@ -1,0 +1,129 @@
+{
+  "main": {
+    "id": "6c1c6a16aa3dbb3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a15a57392e195227",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Tierlists/MrLlamaSC Ladder  Start Builds.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "afbcce89ab44b48f",
+    "type": "split",
+    "children": [
+      {
+        "id": "1dc79b7ac0e137d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ae5878bee7951d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c573465bfea82f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d307965173c95956",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d107b8ab9c5ab322",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ed4fd530d728b98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b3e72b2d4b650f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tierlists/MrLlamaSC Ladder  Start Builds.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f8ca75031e87921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "f7a4341d7251317b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 286,
+    "collapsed": true
+  },
+  "active": "a15a57392e195227",
+  "lastOpenFiles": [
+    "Tierlists/MrLlamaSC Ladder  Start Builds.md",
+    "Tierlists/MrllamaSC Uniques.md",
+    "Breakpoints/Faster Cast rate.md",
+    "Map Reading/Mapreading.md",
+    "Map Reading/Act2Map.md",
+    "Map Reading/Act1Map.md",
+    "Map Reading/NOCOMPASS.png",
+    "![[NOCOMPASS.png]].md",
+    "!NOCOMPASS.md",
+    "NOCOMPASS.md"
+  ]
+}
