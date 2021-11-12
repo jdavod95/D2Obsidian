@@ -1,4 +1,4 @@
-- Horadric cube recept könyv (nagymami legjobbjai edition)
+- Horadric cube recept könyv (nagymami legjobbjai edition) - http://www.d2tomb.com/horadric_cube.shtml
 -  Laddert taktikák 
 	 1. build és ahoz itemek hol érdemes farmolni őket budget verzió high end versió
 	 2. party comp első heti közös játszás tervek elérendő célokkal
